@@ -10,6 +10,8 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [Prior guided feature enrichment network for few-shot segmentation](https://arxiv.org/abs/2008.01449) (PFENet)
     - [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation](https://arxiv.org/abs/2203.07615) (BAM)
         - [PSPNet, PFENet and BAM video link](https://youtu.be/dPgAGP3IE3c)
+- NeRF
+    - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 - GAN 
     - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (Style-GAN)
 - Others
