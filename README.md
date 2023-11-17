@@ -4,7 +4,7 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
         - [Transformer family video link](https://youtu.be/JydFplmsT-0)
     - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) (ViT)
-    - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
+    - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) (SwinT)
 - Few-shot Learning
     - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) (PSPNet)
     - [Prior guided feature enrichment network for few-shot segmentation](https://arxiv.org/abs/2008.01449) (PFENet)
@@ -12,6 +12,10 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
         - [PSPNet, PFENet and BAM video link](https://youtu.be/dPgAGP3IE3c)
 - NeRF
     - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+    - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961) (D-NeRF)
+    - [Dynamic View Synthesis from Dynamic Monocular Video](https://arxiv.org/abs/2105.06468) (DynamicNeRF)
+    - [Robust Dynamic Radiance Fields](https://arxiv.org/abs/2301.02239) (RoDynRF)
+        - [D-NeRF, DynamicNeRF and RoDynRF video link](https://youtu.be/JrDss_jiwEI)
 - GAN 
     - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (Style-GAN)
 - Others
