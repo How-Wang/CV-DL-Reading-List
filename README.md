@@ -16,6 +16,7 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [Dynamic View Synthesis from Dynamic Monocular Video](https://arxiv.org/abs/2105.06468) (DynamicNeRF)
     - [Robust Dynamic Radiance Fields](https://arxiv.org/abs/2301.02239) (RoDynRF)
         - [D-NeRF, DynamicNeRF and RoDynRF video link](https://youtu.be/JrDss_jiwEI)
+    - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989)（Instant-NGP）
 - GAN 
     - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (Style-GAN)
 - Others
