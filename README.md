@@ -17,6 +17,11 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [Robust Dynamic Radiance Fields](https://arxiv.org/abs/2301.02239) (RoDynRF)
         - [D-NeRF, DynamicNeRF and RoDynRF video link](https://youtu.be/JrDss_jiwEI)
     - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989)（Instant-NGP）
+    - [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://arxiv.org/abs/2109.01750)（CodeNeRF）
+    - [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206)（DiffRF）
+    - [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714)（SSDNeRF）
+- Diffusion model
+    - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)（DDPM）
 - GAN 
     - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (Style-GAN)
 - Others
