@@ -20,6 +20,7 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://arxiv.org/abs/2109.01750)（CodeNeRF）
     - [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206)（DiffRF）
     - [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714)（SSDNeRF）
+        - [CodeNeRF, DiffRF and SSDNeRF video link](https://youtu.be/qXhveYjK9zg)
 - Diffusion model
     - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)（DDPM）
 - GAN 
