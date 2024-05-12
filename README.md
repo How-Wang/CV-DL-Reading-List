@@ -1,7 +1,4 @@
 # Computer Vision and Deep Learning paper Reading List
-
-[![hackmd-github-sync-badge](https://hackmd.io/CxJzfakXQ8eEGoUl_Q75kA/badge)](https://hackmd.io/CxJzfakXQ8eEGoUl_Q75kA)
-
 Helping myself keep track of Computer Vision and Deep Learning papers that I‘m reading.
 - Transformer Architectures
     - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
