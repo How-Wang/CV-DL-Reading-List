@@ -1,5 +1,7 @@
 # Computer Vision and Deep Learning paper Reading List
 Helping myself keep track of Computer Vision and Deep Learning papers that I‘m reading.
+- Vision and Language model
+    - [Controlling Vision-Language Models for Multi-Task Image Restoration](https://arxiv.org/abs/2310.01018)（DA-CLIP）
 - Transformer Architectures
     - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
         - [Transformer family video link](https://youtu.be/JydFplmsT-0)
