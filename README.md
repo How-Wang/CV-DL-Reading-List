@@ -3,6 +3,14 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
 - Vision and Language model
     - [Controlling Vision-Language Models for Multi-Task Image Restoration](https://arxiv.org/abs/2310.01018)（DA-CLIP）
         - [DA-CLIP video link](https://youtu.be/otI6hvgBRVQ)
+    - [SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model](https://arxiv.org/abs/2212.05034)
+        - [SmartBrush video link](https://youtu.be/ss-8EKYuvJo?si=GwoZpH5iYXiY0h1o)
+    - [Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model](https://arxiv.org/abs/2310.07222)
+        - [Uni-paint video link](https://youtu.be/NOzRA-LmKd0?si=VqnpZc8aBPuR_j3k)
+    - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+    - [Generating Images with Multimodal Language Models](https://arxiv.org/abs/2305.17216)（GILL）
+    - [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](https://arxiv.org/abs/2312.06739)
+        - [LoRA, GILL and SmartEdit video link](https://youtu.be/Uu_43YnENFo?si=MniFmtLOjs0WX7Sh)
 - Transformer Architectures
     - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
         - [Transformer family video link](https://youtu.be/JydFplmsT-0)
