@@ -11,11 +11,20 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [Generating Images with Multimodal Language Models](https://arxiv.org/abs/2305.17216)（GILL）
     - [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](https://arxiv.org/abs/2312.06739)
         - [LoRA, GILL and SmartEdit video link](https://youtu.be/Uu_43YnENFo?si=MniFmtLOjs0WX7Sh)
+    - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
+    - [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)（LLaVA）
+    - [GLaMM: Pixel Grounding Large Multimodal Model](https://arxiv.org/abs/2311.03356)
+    - [LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge](https://arxiv.org/abs/2311.11860)
 - Transformer Architectures
     - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
         - [Transformer family video link](https://youtu.be/JydFplmsT-0)
     - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) (ViT)
     - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030) (SwinT)
+- Face Anti-spoofing
+    -  [Deep Learning for Face Anti-Spoofing: A Survey](https://arxiv.org/abs/2106.14948)
+    -  [AUEditNet: Dual-Branch Facial Action Unit Intensity Manipulation with Implicit Disentanglement](https://arxiv.org/abs/2404.05063)
+    -  [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://arxiv.org/abs/2309.16649)
+    - [Distributionally Generative Augmentation for Fair Facial Attribute Classification](https://arxiv.org/abs/2403.06606)（DiGA）
 - Few-shot Learning
     - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) (PSPNet)
     - [Prior guided feature enrichment network for few-shot segmentation](https://arxiv.org/abs/2008.01449) (PFENet)
@@ -40,4 +49,5 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
 - GAN 
     - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (Style-GAN)
 - Others
+    - [Efficient Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2403.18293)（TDA）
     - [Scene detection in Hollywood movies and TV shows](https://ieeexplore.ieee.org/document/1211489)
