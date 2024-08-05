@@ -15,6 +15,9 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)（LLaVA）
     - [GLaMM: Pixel Grounding Large Multimodal Model](https://arxiv.org/abs/2311.03356)
     - [LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge](https://arxiv.org/abs/2311.11860)
+        - [MLLM video link](https://youtu.be/_2Njv-OA1ng?si=pbAu3U6ilAsUV5ec)
+    - [LM4LV: A Frozen Large Language Model for Low-level Vision Tasks](https://arxiv.org/abs/2405.15734)
+        -  [LM4LV video link](https://youtu.be/j_zBEPqLwKE?si=PewM_FJbMbLpUmeh)
 - Transformer Architectures
     - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
         - [Transformer family video link](https://youtu.be/JydFplmsT-0)
