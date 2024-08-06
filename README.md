@@ -1,8 +1,14 @@
 # Computer Vision and Deep Learning paper Reading List
 Helping myself keep track of Computer Vision and Deep Learning papers that I‘m reading.
+- Low-level vision task
+    - Text related
+        - [Controlling Vision-Language Models for Multi-Task Image Restoration](https://arxiv.org/abs/2310.01018)（DA-CLIP）
+            - [DA-CLIP video link](https://youtu.be/otI6hvgBRVQ) 
+        - [LM4LV: A Frozen Large Language Model for Low-level Vision Tasks](https://arxiv.org/abs/2405.15734)
+            - [LM4LV video link](https://youtu.be/ikggkpIweD0)
+    - Others
+        - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
 - Vision and Language model
-    - [Controlling Vision-Language Models for Multi-Task Image Restoration](https://arxiv.org/abs/2310.01018)（DA-CLIP）
-        - [DA-CLIP video link](https://youtu.be/otI6hvgBRVQ)
     - [SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model](https://arxiv.org/abs/2212.05034)
         - [SmartBrush video link](https://youtu.be/ss-8EKYuvJo?si=GwoZpH5iYXiY0h1o)
     - [Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model](https://arxiv.org/abs/2310.07222)
@@ -11,13 +17,10 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     - [Generating Images with Multimodal Language Models](https://arxiv.org/abs/2305.17216)（GILL）
     - [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](https://arxiv.org/abs/2312.06739)
         - [LoRA, GILL and SmartEdit video link](https://youtu.be/Uu_43YnENFo?si=MniFmtLOjs0WX7Sh)
-    - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
     - [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)（LLaVA）
     - [GLaMM: Pixel Grounding Large Multimodal Model](https://arxiv.org/abs/2311.03356)
     - [LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge](https://arxiv.org/abs/2311.11860)
         - [MLLM video link](https://youtu.be/_2Njv-OA1ng?si=pbAu3U6ilAsUV5ec)
-    - [LM4LV: A Frozen Large Language Model for Low-level Vision Tasks](https://arxiv.org/abs/2405.15734)
-        -  [LM4LV video link](https://youtu.be/ikggkpIweD0)
 - Transformer Architectures
     - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
         - [Transformer family video link](https://youtu.be/JydFplmsT-0)
