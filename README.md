@@ -8,6 +8,7 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
             - [LM4LV video link](https://youtu.be/ikggkpIweD0)
     - Others
         - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
+            - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
 - Vision and Language model
     - [SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model](https://arxiv.org/abs/2212.05034)
         - [SmartBrush video link](https://youtu.be/ss-8EKYuvJo?si=GwoZpH5iYXiY0h1o)
@@ -30,6 +31,7 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     -  [Deep Learning for Face Anti-Spoofing: A Survey](https://arxiv.org/abs/2106.14948)
     -  [AUEditNet: Dual-Branch Facial Action Unit Intensity Manipulation with Implicit Disentanglement](https://arxiv.org/abs/2404.05063)
     -  [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://arxiv.org/abs/2309.16649)
+        - [FLIP video link](https://youtu.be/SKfbZk-Jhrg?si=QDTAMS1Fl81KpcKX)
     - [Distributionally Generative Augmentation for Fair Facial Attribute Classification](https://arxiv.org/abs/2403.06606)（DiGA）
 - Few-shot Learning
     - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) (PSPNet)
