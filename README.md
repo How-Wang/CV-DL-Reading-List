@@ -6,6 +6,11 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
             - [DA-CLIP video link](https://youtu.be/otI6hvgBRVQ) 
         - [LM4LV: A Frozen Large Language Model for Low-level Vision Tasks](https://arxiv.org/abs/2405.15734)
             - [LM4LV video link](https://youtu.be/ikggkpIweD0)
+        - [Language-driven All-in-one Adverse Weather Removal](https://arxiv.org/abs/2312.01381)（LDR）
+        - [HazeCLIP: Towards Language Guided Real-World Image Dehazing](https://arxiv.org/pdf/2407.13719)
+            - [LDR, HazeCLIP video link](https://youtu.be/f1PFjp1tUYs)
+        - [Boosting Image Restoration via Priors from Pre-trained Models](https://arxiv.org/abs/2403.06793)（PTG-RM）
+            - [PTG-RM video link](https://youtu.be/kNsgio2s3B4)
     - Others
         - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
             - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
@@ -31,7 +36,7 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
     -  [Deep Learning for Face Anti-Spoofing: A Survey](https://arxiv.org/abs/2106.14948)
     -  [AUEditNet: Dual-Branch Facial Action Unit Intensity Manipulation with Implicit Disentanglement](https://arxiv.org/abs/2404.05063)
     -  [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://arxiv.org/abs/2309.16649)
-        - [FLIP video link](https://youtu.be/SKfbZk-Jhrg?si=QDTAMS1Fl81KpcKX)
+        - [FLIP video link](https://youtu.be/SKfbZk-Jhrg)
     - [Distributionally Generative Augmentation for Fair Facial Attribute Classification](https://arxiv.org/abs/2403.06606)（DiGA）
 - Few-shot Learning
     - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) (PSPNet)
