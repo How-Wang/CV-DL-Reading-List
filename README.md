@@ -11,9 +11,16 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
             - [LDR, HazeCLIP video link](https://youtu.be/f1PFjp1tUYs)
         - [Boosting Image Restoration via Priors from Pre-trained Models](https://arxiv.org/abs/2403.06793)（PTG-RM）
             - [PTG-RM video link](https://youtu.be/kNsgio2s3B4)
+        - [TextIR: A Simple Framework for Text-based Editable Image Restoration](https://arxiv.org/abs/2302.14736)
+        - [Improving Image Restoration through Removing Degradations in Textual Representations](https://arxiv.org/abs/2312.17334)（TextualDegRemoval）
+            - [TextualDegRemoval video](https://youtu.be/j_aE2tFn7no)
+        - [Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration](https://arxiv.org/abs/2312.02918)（MPerceiver）
+            - [MPerceiver video](https://youtu.be/EEi-oWEqrJk)
     - Others
         - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
             - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
+        - [PromptIR: Prompting for All-in-One Blind Image Restoration](https://arxiv.org/abs/2306.13090)
+            - [PromptIR, TextIR video](https://youtu.be/ffhDnxRbkKw)
 - Vision and Language model
     - [SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model](https://arxiv.org/abs/2212.05034)
         - [SmartBrush video link](https://youtu.be/ss-8EKYuvJo?si=GwoZpH5iYXiY0h1o)
