@@ -15,7 +15,9 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
         - [Improving Image Restoration through Removing Degradations in Textual Representations](https://arxiv.org/abs/2312.17334)（TextualDegRemoval）
             - [TextualDegRemoval video](https://youtu.be/j_aE2tFn7no)
         - [Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration](https://arxiv.org/abs/2312.02918)（MPerceiver）
-            - [MPerceiver video](https://youtu.be/EEi-oWEqrJk)
+            - [MPerceiver video link](https://youtu.be/EEi-oWEqrJk)
+        - [Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models](https://arxiv.org/abs/2409.02101)（WResVLM）
+            - [WResVLM video link](https://youtu.be/cgZTgasjCFE)
     - Others
         - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
             - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
