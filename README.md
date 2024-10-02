@@ -18,6 +18,8 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
             - [MPerceiver video link](https://youtu.be/EEi-oWEqrJk)
         - [Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models](https://arxiv.org/abs/2409.02101)（WResVLM）
             - [WResVLM video link](https://youtu.be/cgZTgasjCFE)
+        - [RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models](https://arxiv.org/abs/2407.18035)
+            - [RestoreAgent video link](https://youtu.be/8hxzsDJ89Cw)
     - Others
         - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
             - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
