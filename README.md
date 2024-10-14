@@ -24,6 +24,8 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
             - [InstrucIR video link](https://youtu.be/rrx_hYBGecI)
         - [SPIRE: Semantic Prompt-Driven Image Restoration](https://arxiv.org/abs/2312.11595)
             - [SPIRE video link](https://youtu.be/dn5EAClY7fk)
+        - [MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration](https://arxiv.org/abs/2407.10833)
+            - [MoE-DiffIR video link](https://youtu.be/j1SG9JNkLVE)
     - Others
         - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
             - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
