@@ -26,6 +26,12 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
             - [SPIRE video link](https://youtu.be/dn5EAClY7fk)
         - [MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration](https://arxiv.org/abs/2407.10833)
             - [MoE-DiffIR video link](https://youtu.be/j1SG9JNkLVE)
+    - Dataset
+        - [From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal](https://arxiv.org/abs/2308.03867)（LHP-rain）
+        - [WeatherStream: Light Transport Automation of Single Image Deweathering](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_WeatherStream_Light_Transport_Automation_of_Single_Image_Deweathering_CVPR_2023_paper.pdf)
+            - [LHP-rain, WeatherStream video](https://youtu.be/EhQK23OR7PU)
+        - [Towards Real-world Event-guided Low-light Video Enhancement and Deblurring](https://arxiv.org/abs/2408.14916)（RELED）
+            - [RELED video link](https://youtu.be/iMwaCH2IXmU)
     - Others
         - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
             - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
