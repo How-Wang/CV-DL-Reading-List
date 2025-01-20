@@ -1,42 +1,53 @@
 # Computer Vision and Deep Learning paper Reading List
 Helping myself keep track of Computer Vision and Deep Learning papers that I‘m reading.
 - Low-level vision task
-    - Text related
-        - [Controlling Vision-Language Models for Multi-Task Image Restoration](https://arxiv.org/abs/2310.01018)（DA-CLIP）
-            - [DA-CLIP video link](https://youtu.be/otI6hvgBRVQ) 
-        - [LM4LV: A Frozen Large Language Model for Low-level Vision Tasks](https://arxiv.org/abs/2405.15734)
-            - [LM4LV video link](https://youtu.be/ikggkpIweD0)
-        - [Language-driven All-in-one Adverse Weather Removal](https://arxiv.org/abs/2312.01381)（LDR）
-        - [HazeCLIP: Towards Language Guided Real-World Image Dehazing](https://arxiv.org/pdf/2407.13719)
-            - [LDR, HazeCLIP video link](https://youtu.be/f1PFjp1tUYs)
-        - [Boosting Image Restoration via Priors from Pre-trained Models](https://arxiv.org/abs/2403.06793)（PTG-RM）
-            - [PTG-RM video link](https://youtu.be/kNsgio2s3B4)
-        - [TextIR: A Simple Framework for Text-based Editable Image Restoration](https://arxiv.org/abs/2302.14736)
-        - [Improving Image Restoration through Removing Degradations in Textual Representations](https://arxiv.org/abs/2312.17334)（TextualDegRemoval）
-            - [TextualDegRemoval video](https://youtu.be/j_aE2tFn7no)
-        - [Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration](https://arxiv.org/abs/2312.02918)（MPerceiver）
-            - [MPerceiver video link](https://youtu.be/EEi-oWEqrJk)
-        - [Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models](https://arxiv.org/abs/2409.02101)（WResVLM）
-            - [WResVLM video link](https://youtu.be/cgZTgasjCFE)
-        - [RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models](https://arxiv.org/abs/2407.18035)
-            - [RestoreAgent video link](https://youtu.be/8hxzsDJ89Cw)
-        - [InstructIR: High-Quality Image Restoration Following Human Instructions](https://arxiv.org/abs/2401.16468)
-            - [InstrucIR video link](https://youtu.be/rrx_hYBGecI)
-        - [SPIRE: Semantic Prompt-Driven Image Restoration](https://arxiv.org/abs/2312.11595)
-            - [SPIRE video link](https://youtu.be/dn5EAClY7fk)
-        - [MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration](https://arxiv.org/abs/2407.10833)
-            - [MoE-DiffIR video link](https://youtu.be/j1SG9JNkLVE)
-    - Dataset
-        - [From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal](https://arxiv.org/abs/2308.03867)（LHP-rain）
-        - [WeatherStream: Light Transport Automation of Single Image Deweathering](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_WeatherStream_Light_Transport_Automation_of_Single_Image_Deweathering_CVPR_2023_paper.pdf)
-            - [LHP-rain, WeatherStream video](https://youtu.be/EhQK23OR7PU)
+    - Blur
+        - [ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://arxiv.org/abs/2312.10998)
+            - [ID-Blau video link](https://youtu.be/FenrAtvXJN8)
+        - [Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700188.pdf)（RealBlur）
+        - [Motion Blur Decomposition with Cross-shutter Guidance](https://arxiv.org/abs/2404.01120)（RealBR）
+            - [RealBR video link](https://youtu.be/IGOK4UlZ31Y)
         - [Towards Real-world Event-guided Low-light Video Enhancement and Deblurring](https://arxiv.org/abs/2408.14916)（RELED）
-            - [RELED video link](https://youtu.be/iMwaCH2IXmU)
-    - Others
-        - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
-            - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
-        - [PromptIR: Prompting for All-in-One Blind Image Restoration](https://arxiv.org/abs/2306.13090)
-            - [PromptIR, TextIR video](https://youtu.be/ffhDnxRbkKw)
+            - [RELED video link](https://youtu.be/mjXSESCNm7s)
+        - [Realistic Blur Synthesis for Learning Image Deblurring](https://arxiv.org/abs/2202.08771)（RSBlur）
+        - [Effcient Spatio-Temporal Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)（ESTRNN）
+    - Weahter
+        - Text related
+            - [Controlling Vision-Language Models for Multi-Task Image Restoration](https://arxiv.org/abs/2310.01018)（DA-CLIP）
+                - [DA-CLIP video link](https://youtu.be/otI6hvgBRVQ) 
+            - [LM4LV: A Frozen Large Language Model for Low-level Vision Tasks](https://arxiv.org/abs/2405.15734)
+                - [LM4LV video link](https://youtu.be/ikggkpIweD0)
+            - [Language-driven All-in-one Adverse Weather Removal](https://arxiv.org/abs/2312.01381)（LDR）
+            - [HazeCLIP: Towards Language Guided Real-World Image Dehazing](https://arxiv.org/pdf/2407.13719)
+                - [LDR, HazeCLIP video link](https://youtu.be/f1PFjp1tUYs)
+            - [Boosting Image Restoration via Priors from Pre-trained Models](https://arxiv.org/abs/2403.06793)（PTG-RM）
+                - [PTG-RM video link](https://youtu.be/kNsgio2s3B4)
+            - [TextIR: A Simple Framework for Text-based Editable Image Restoration](https://arxiv.org/abs/2302.14736)
+            - [Improving Image Restoration through Removing Degradations in Textual Representations](https://arxiv.org/abs/2312.17334)（TextualDegRemoval）
+                - [TextualDegRemoval video](https://youtu.be/j_aE2tFn7no)
+            - [Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration](https://arxiv.org/abs/2312.02918)（MPerceiver）
+                - [MPerceiver video link](https://youtu.be/EEi-oWEqrJk)
+            - [Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models](https://arxiv.org/abs/2409.02101)（WResVLM）
+                - [WResVLM video link](https://youtu.be/cgZTgasjCFE)
+            - [RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models](https://arxiv.org/abs/2407.18035)
+                - [RestoreAgent video link](https://youtu.be/8hxzsDJ89Cw)
+            - [InstructIR: High-Quality Image Restoration Following Human Instructions](https://arxiv.org/abs/2401.16468)
+                - [InstrucIR video link](https://youtu.be/rrx_hYBGecI)
+            - [SPIRE: Semantic Prompt-Driven Image Restoration](https://arxiv.org/abs/2312.11595)
+                - [SPIRE video link](https://youtu.be/dn5EAClY7fk)
+            - [MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration](https://arxiv.org/abs/2407.10833)
+                - [MoE-DiffIR video link](https://youtu.be/j1SG9JNkLVE)
+        - Dataset
+            - [From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal](https://arxiv.org/abs/2308.03867)（LHP-rain）
+            - [WeatherStream: Light Transport Automation of Single Image Deweathering](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_WeatherStream_Light_Transport_Automation_of_Single_Image_Deweathering_CVPR_2023_paper.pdf)
+                - [LHP-rain, WeatherStream video](https://youtu.be/EhQK23OR7PU)
+            - [Towards Real-world Event-guided Low-light Video Enhancement and Deblurring](https://arxiv.org/abs/2408.14916)（RELED）
+                - [RELED video link](https://youtu.be/iMwaCH2IXmU)
+        - Others
+            - [Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks](https://arxiv.org/abs/2403.00644)
+                - [Diff-Plugin video link](https://youtu.be/lvFbKLWu5yU?si=DnAGCYZAvgljNl2d)
+            - [PromptIR: Prompting for All-in-One Blind Image Restoration](https://arxiv.org/abs/2306.13090)
+                - [PromptIR, TextIR video](https://youtu.be/ffhDnxRbkKw)
 - Vision and Language model
     - [SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model](https://arxiv.org/abs/2212.05034)
         - [SmartBrush video link](https://youtu.be/ss-8EKYuvJo?si=GwoZpH5iYXiY0h1o)
