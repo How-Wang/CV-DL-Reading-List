@@ -3,16 +3,16 @@ Helping myself keep track of Computer Vision and Deep Learning papers that I‘m
 - Low-level vision task
     - Noise
         - Sythesize
-            - []()（LRD）
-            - []()（LRID）
-            - []()（ELD）
-            - []()（Rawgment）
+            - [Towards General Low-Light Raw Noise Synthesis and Modeling](https://arxiv.org/abs/2307.16508)（LRD）
+            - [Learnability Enhancement for Low-Light Raw Image Denoising: A Data Perspective](https://ieeexplore.ieee.org/document/10207751)（LRID）
+            - [Physics-based Noise Modeling for Extreme Low-light Photography](https://arxiv.org/abs/2108.02158)（ELD）
+            - [Rawgment: Noise-Accounted RAW Augmentation Enables Recognition in a Wide Variety of Environments](https://arxiv.org/abs/2210.16046)（Rawgment）
         - Pure Dataset
-            - []()（LLRVD）
-            - []()（PolyU）
+            - [Low-Light Raw Video Denoising With a High-Quality Realistic Motion Dataset](https://ieeexplore.ieee.org/document/10003653)（LLRVD）
+            - [Real-world Noisy Image Denoising: A New Benchmark](https://arxiv.org/abs/1804.02603)（PolyU）
     - Discrete to Continuous
-        - []()
-        - []()
+        - [Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction](https://arxiv.org/abs/2309.03900)（CEVR）
+        - [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)（LIIF）
     - Blur
         - [ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://arxiv.org/abs/2312.10998)
             - [ID-Blau video link](https://youtu.be/FenrAtvXJN8)
