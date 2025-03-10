@@ -1,6 +1,18 @@
 # Computer Vision and Deep Learning paper Reading List
 Helping myself keep track of Computer Vision and Deep Learning papers that I‘m reading.
 - Low-level vision task
+    - Noise
+        - Sythesize
+            - []()（LRD）
+            - []()（LRID）
+            - []()（ELD）
+            - []()（Rawgment）
+        - Pure Dataset
+            - []()（LLRVD）
+            - []()（PolyU）
+    - Discrete to Continuous
+        - []()
+        - []()
     - Blur
         - [ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://arxiv.org/abs/2312.10998)
             - [ID-Blau video link](https://youtu.be/FenrAtvXJN8)
